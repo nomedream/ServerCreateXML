@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<updateFiles mainVersion="2">
+  <file name="1.txt" version="1" hash="0FFE1ABD1A08215353C233D6E009613E95EEC4253832A761AF28FF37AC5A150C" />
+  <file name="sub\sub.txt" version="2" hash="0C5CAF84AF33477C0CD3452642847F8E1971A053DCA8DCC449BAE47A271DC6EF" />
+</updateFiles>

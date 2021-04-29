@@ -1,0 +1,10 @@
+C:\Users\DomainName\Documents\Code\Work\ServerCreateXML\ServerCreateXML\bin\Debug\ServerCreateXML.exe.config
+C:\Users\DomainName\Documents\Code\Work\ServerCreateXML\ServerCreateXML\bin\Debug\ServerCreateXML.exe
+C:\Users\DomainName\Documents\Code\Work\ServerCreateXML\ServerCreateXML\bin\Debug\ServerCreateXML.pdb
+C:\Users\DomainName\Documents\Code\Work\ServerCreateXML\ServerCreateXML\obj\Debug\ServerCreateXML.csprojAssemblyReference.cache
+C:\Users\DomainName\Documents\Code\Work\ServerCreateXML\ServerCreateXML\obj\Debug\ServerCreateXML.Form.resources
+C:\Users\DomainName\Documents\Code\Work\ServerCreateXML\ServerCreateXML\obj\Debug\ServerCreateXML.Properties.Resources.resources
+C:\Users\DomainName\Documents\Code\Work\ServerCreateXML\ServerCreateXML\obj\Debug\ServerCreateXML.csproj.GenerateResource.cache
+C:\Users\DomainName\Documents\Code\Work\ServerCreateXML\ServerCreateXML\obj\Debug\ServerCreateXML.csproj.CoreCompileInputs.cache
+C:\Users\DomainName\Documents\Code\Work\ServerCreateXML\ServerCreateXML\obj\Debug\ServerCreateXML.exe
+C:\Users\DomainName\Documents\Code\Work\ServerCreateXML\ServerCreateXML\obj\Debug\ServerCreateXML.pdb
